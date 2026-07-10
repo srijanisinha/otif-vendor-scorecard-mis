@@ -66,7 +66,7 @@ Head could actually use in a weekly review.
 *(Add screenshots here — see instructions below)*
 
 ![Dashboard](Dashboard.png)
-![Vendor Ranking Chart](vendor_ranking.png)
+![Vendor Ranking Chart](vendor_ranking.png.png)
 
 ---
 
